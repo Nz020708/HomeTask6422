@@ -1,0 +1,14 @@
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.exe
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.deps.json
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.runtimeconfig.json
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.runtimeconfig.dev.json
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.dll
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\bin\Debug\netcoreapp3.1\HomeTask6422.pdb
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.csproj.AssemblyReference.cache
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.AssemblyInfoInputs.cache
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.AssemblyInfo.cs
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.csproj.CoreCompileInputs.cache
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.dll
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.pdb
+C:\Users\99470\source\repos\HomeTask6422\HomeTask6422\obj\Debug\netcoreapp3.1\HomeTask6422.genruntimeconfig.cache
